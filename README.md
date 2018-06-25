@@ -12,3 +12,7 @@ Apps that I applied while getting started to Android
 ## FlickrBrowser
 
 <img src="https://image.ibb.co/fotS4d/Screenshot_1529500644.png" alt="ss1" width="270px" height="480px"> <img src="https://image.ibb.co/ekOS4d/Screenshot_1529500535.png" alt="ss2" width="270px" height="480px"> <img src="https://image.ibb.co/hQDoAJ/Screenshot_1529500540.png" alt="ss3" width="270px" height="480px">
+
+## BrainTrainer
+
+<img src="https://image.ibb.co/djp8LT/Screenshot_1529934561.png" alt="ss1" width="270px" height="480px"> <img src="https://image.ibb.co/hFe8LT/Screenshot_1529934583.png" alt="ss2" width="270px" height="480px">
