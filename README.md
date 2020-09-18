@@ -1,5 +1,5 @@
 # android-apps
-Apps that I applied while getting started to Android
+Getting started to Android Programming
 
 ### Top10Downloader
 
